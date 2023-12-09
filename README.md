@@ -1,5 +1,5 @@
 # DLFS-Rec
-The source code for our RecSys 2023 Paper [**"Distribution-based Learnable Filters with Side Information for Sequential Recommendation"**](https://dl.acm.org/doi/10.1145/3604915.3608782) .
+Source codes for our RecSys 2023 Paper [**"Distribution-based Learnable Filters with Side Information for Sequential Recommendation"**](https://dl.acm.org/doi/10.1145/3604915.3608782) .
 
 If you find the code beneficial for your research, please cite our paper:
 
@@ -17,12 +17,12 @@ If you find the code beneficial for your research, please cite our paper:
 ![avatar](Architecture.png)
 
 ## Performance
-The ground-truth item is paired with 99 randomly sampled negative items, and the performance comparisons are presented in the following picture.
+The ground-truth item is paired with 99 randomly sampled negative items, and performance comparisons are presented in the following picture.
 
 ![avatar](Performance.png)
 
 ## Training
-The values of hyperparameters can be determined based on specific circumstances. For optimal parameters related to the experimental results, please refer to the readme file in the 'reproduction' folder.
+The values of hyperparameters can be determined based on specific circumstances. For optimal parameters related to experimental results, please refer to the readme file in 'reproduction' folder.
 
 ```shell script
 python main.py \
