@@ -18,6 +18,7 @@ If you find the code beneficial for your research, please cite our paper:
 
 ## Performance
 The ground-truth item is paired with 99 randomly sampled negative items, and the results are shown in the following picture.
+
 ![avatar](Performance.png)
 
 ## Training
