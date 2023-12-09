@@ -9,11 +9,11 @@ GPU: NVIDIA GeForce RTX 3080 (10G)
 + Software
 ```bash
 Python 3.8.13
-numpy 1.23.0
-pytorch 1.8.1(GPU Version)
+Numpy 1.23.0
+Pytorch 1.8.1(GPU Version)
 ```
 
-### Datasets
+### Configurations
 #### Beauty
 ```bash
 --load_model reproduction/DLFS-Rec-Beauty --do_eval
