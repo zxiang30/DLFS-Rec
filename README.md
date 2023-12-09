@@ -17,7 +17,7 @@ If you find the code beneficial for your research, please cite our paper:
 ![avatar](Architecture.png)
 
 ## Performance
-The ground-truth item is paired with 99 randomly sampled negative items, and the results are shown in the following picture.
+The ground-truth item is paired with 99 randomly sampled negative items, and the performance comparisons are presented in the following picture.
 
 ![avatar](Performance.png)
 
@@ -33,3 +33,6 @@ python main.py \
 --attribute_hidden_size 128 \
 --lr 0.0001
 ```
+
+## Contact
+If you have any questions about our paper or codes, please send email to zhixiang123.deng@gmail.com.
