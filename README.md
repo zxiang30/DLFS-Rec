@@ -1,7 +1,7 @@
 # DLFS-Rec
-Source codes for our RecSys 2023 Paper [**"Distribution-based Learnable Filters with Side Information for Sequential Recommendation"**](https://dl.acm.org/doi/10.1145/3604915.3608782) .
+Source code for our RecSys 2023 Paper [**"Distribution-based Learnable Filters with Side Information for Sequential Recommendation"**](https://dl.acm.org/doi/10.1145/3604915.3608782) .
 
-If you find the code beneficial for your research, please cite our paper:
+If you find the code helpful for your research, please cite our paper:
 
 ```bash
 @inproceedings{liu2023distribution,
